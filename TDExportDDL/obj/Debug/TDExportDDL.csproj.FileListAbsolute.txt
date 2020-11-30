@@ -1,0 +1,12 @@
+F:\GitHub\TDExportDDL_old\TDExportDDL\bin\Debug\TDExportDDL.exe.config
+F:\GitHub\TDExportDDL_old\TDExportDDL\bin\Debug\TDExportDDL.exe
+F:\GitHub\TDExportDDL_old\TDExportDDL\bin\Debug\TDExportDDL.pdb
+F:\GitHub\TDExportDDL_old\TDExportDDL\bin\Debug\Teradata.Client.Provider.dll
+F:\GitHub\TDExportDDL_old\TDExportDDL\bin\Debug\Teradata.Net.Security.Tdgss.dll
+F:\GitHub\TDExportDDL_old\TDExportDDL\bin\Debug\Teradata.Client.Provider.xml
+F:\GitHub\TDExportDDL_old\TDExportDDL\bin\Debug\ja\Teradata.Client.Provider.resources.dll
+F:\GitHub\TDExportDDL_old\TDExportDDL\bin\Debug\ja\Teradata.Net.Security.Tdgss.resources.dll
+F:\GitHub\TDExportDDL_old\TDExportDDL\obj\Debug\TDExportDDL.csproj.CoreCompileInputs.cache
+F:\GitHub\TDExportDDL_old\TDExportDDL\obj\Debug\TDExportDDL.csproj.CopyComplete
+F:\GitHub\TDExportDDL_old\TDExportDDL\obj\Debug\TDExportDDL.exe
+F:\GitHub\TDExportDDL_old\TDExportDDL\obj\Debug\TDExportDDL.pdb

@@ -1,0 +1,33 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="TDExportDDL" GeneratedClassName="MainSettings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Encoding" Type="System.String" Scope="User">
+      <Value Profile="(Default)">UTF8</Value>
+    </Setting>
+    <Setting Name="AuthenticationMechanism" Type="System.String" Scope="User">
+      <Value Profile="(Default)">LDAP</Value>
+    </Setting>
+    <Setting Name="FileName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">DDL.sql</Value>
+    </Setting>
+    <Setting Name="ConnTimeout" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">60</Value>
+    </Setting>
+    <Setting Name="DataSource" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Login" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Password" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="SelectObjSQL" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SELECT DatabaseName, TableName AS NAME,TableKind FROM DBC.TablesV 
+WHERE DatabaseName in
+('DB1','DBn')
+AND TableKind IN('P','T','V')</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

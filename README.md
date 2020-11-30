@@ -1,5 +1,5 @@
 # TDExportDDL
-Export DDL of Teradata tables, views, procedures & functions in text file. 
+Export DDL of Teradata tables, views, procedures & functions to text file. 
 
 App used Teradata Client C# https://www.nuget.org/packages/Teradata.Client.Provider/
 
